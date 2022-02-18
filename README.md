@@ -8,9 +8,13 @@ They can be ML models, people, players in video games, etc.
 * Agents may receive a reward after performing an action.
 * The agent observes its environment when it gets a reward and remembers it.
 
-**Ideally, over time agents will learn what action to take in response to the environment in order to maximize reward.**
+**Ideally, over time, agents will learn what action to take in response to the environment in order to maximize reward.**
+
+<br/>
 
 ![Alt text](rl.png?raw=true "RL")
+
+<br/>
 
 ## How to do Reinforcement Learning
 1. Import dependencies
@@ -42,6 +46,8 @@ Keep in mind that RL can be overkill for simple problems. Additionally,
 environments must be Markovian. RL training can also take a long time and
 it is not always stable.
 
+<br/>
+
 # Links
-https://stable-baselines3.readthedocs.io/en/master/
+https://stable-baselines3.readthedocs.io/en/master/ <br/>
 https://gym.openai.com/

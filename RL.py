@@ -9,6 +9,7 @@ The episode will end if the pole moves more than 15 degrees from its upright pos
 or if the cart moves more than 2.5 units from the center.
 
 https://github.com/openai/gym/blob/master/gym/envs/classic_control/cartpole.py
+https://www.youtube.com/watch?v=Mut_u40Sqz4&t=2282s&ab_channel=NicholasRenotte
 '''
 # 1. Import dependencies
 import os
