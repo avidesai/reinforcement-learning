@@ -8,9 +8,7 @@ They can be ML models, people, players in video games, etc.
 * Agents may receive a reward after performing an action.
 * The agent observes its environment when it gets a reward and remembers it.
 
-
 **Ideally, over time agents will learn what action to take in response to the environment in order to maximize reward.**
-
 
 ![Alt text](rl.png?raw=true "RL")
 
